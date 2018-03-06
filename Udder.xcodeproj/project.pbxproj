@@ -278,7 +278,7 @@
 				DEVELOPMENT_TEAM = S2V96BB45E;
 				INFOPLIST_FILE = Udder/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.londonappbrewry.Udder;
+				PRODUCT_BUNDLE_IDENTIFIER = com.EricAndersen.Udder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -293,7 +293,7 @@
 				DEVELOPMENT_TEAM = S2V96BB45E;
 				INFOPLIST_FILE = Udder/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.londonappbrewry.Udder;
+				PRODUCT_BUNDLE_IDENTIFIER = com.EricAndersen.Udder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
